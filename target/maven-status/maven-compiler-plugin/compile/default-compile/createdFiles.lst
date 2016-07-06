@@ -1,1 +1,3 @@
-br\com\estudo\spring\microservices\Calculadora.class
+br\com\estudo\spring\microservices\CalculadoraService.class
+br\com\estudo\spring\microservices\Principal.class
+br\com\estudo\spring\microservices\GerenciadorLog.class
