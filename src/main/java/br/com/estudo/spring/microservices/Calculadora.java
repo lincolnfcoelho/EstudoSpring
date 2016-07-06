@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 @EnableAutoConfiguration
 public class Calculadora {
 	
-	private final static String versao = "2.0"; 
+	private final static String versao = "7.0"; 
 	
 	@RequestMapping("/")
 	public String obterVersao() {
